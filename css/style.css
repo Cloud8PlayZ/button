@@ -1,0 +1,33 @@
+body{
+	padding:0px; /* Body Is Not Needed For The Code To Work*/
+	margin:0;
+	background-color:#636e72; 
+}
+#main{
+	height:45px;
+	width:100px;
+	border:solid;
+	border-radius: 10px;
+	border color: cyan;
+	color:cyan;
+}
+#main a{
+	vertical-align:-15px;
+	text-align: center;
+	font-style: normal;
+	color: cyan;
+	text-decoration: none;
+}
+#main a:hover{
+	color: #b2bec3;
+	text-decoration: none;
+}
+#main a:active{
+	color: #b2bec3;
+}
+#main:active{
+	border-color: #b2bec3;
+}
+#main:hover{
+	border-color: #b2bec3;
+}
